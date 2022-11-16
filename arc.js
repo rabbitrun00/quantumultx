@@ -1,6 +1,6 @@
 [rewrite_local]
 # > arc app
-^https?:\/\/api\.revenuecat\.com\/v1\/receipts url script-response-body https://raw.githubusercontent.com/rabbitrun00/quau/main/scripts.js
+^https?:\/\/api\.revenuecat\.com\/v1\/receipts url script-response-body https://raw.githubusercontent.com/rabbitrun00/quau/main/arc.js
 
 [mitm] 
 hostname = api.revenuecat.com
