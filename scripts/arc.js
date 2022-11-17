@@ -1,6 +1,6 @@
 [rewrite_local]
 # > arc app
-^https?:\/\/api\.revenuecat\.com\/v1\/receipts url script-response-body https://raw.githubusercontent.com/rrabbitrun00/quantumultx/main/scripts/arc.js
+^https?:\/\/api\.revenuecat\.com\/v1\/receipts url script-response-body https://raw.githubusercontent.com/rabbitrun00/quantumultx/main/scripts/arc.js
 
 
 [mitm] 
